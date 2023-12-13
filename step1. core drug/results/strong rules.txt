@@ -1,0 +1,123 @@
+lhs	rhs	support	confidence	coverage	lift	count
+1	{Oriental Waterplantain Rhizome} 	 {Poria}	0.203883495145631	0.91304347826087	0.223300970873786	3.61705685618729	21
+2	{Poria} 	 {Oriental Waterplantain Rhizome}	0.203883495145631	0.807692307692308	0.252427184466019	3.61705685618729	21
+3	{Eclipta Herb} 	 {Glossy Privet Fruit}	0.194174757281553	0.952380952380952	0.203883495145631	3.6331569664903	20
+4	{Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Poria}	0.194174757281553	0.909090909090909	0.213592233009709	3.6013986013986	20
+5	{Moutan Root Bark,Poria} 	 {Oriental Waterplantain Rhizome}	0.194174757281553	1	0.194174757281553	4.47826086956522	20
+6	{Asiatic Cornelian Cherry Fruit,Oriental Waterplantain Rhizome} 	 {Poria}	0.16504854368932	1	0.16504854368932	3.96153846153846	17
+7	{Oriental Waterplantain Rhizome,Poria} 	 {Asiatic Cornelian Cherry Fruit}	0.16504854368932	0.80952380952381	0.203883495145631	3.47420634920635	17
+8	{Asiatic Cornelian Cherry Fruit,Poria} 	 {Oriental Waterplantain Rhizome}	0.16504854368932	1	0.16504854368932	4.47826086956522	17
+9	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark} 	 {Oriental Waterplantain Rhizome}	0.16504854368932	0.85	0.194174757281553	3.80652173913043	17
+10	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark} 	 {Dioscorea Rhizome}	0.16504854368932	0.85	0.194174757281553	3.36730769230769	17
+11	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark} 	 {Poria}	0.16504854368932	0.85	0.194174757281553	3.36730769230769	17
+12	{Moutan Root Bark,Poria} 	 {Asiatic Cornelian Cherry Fruit}	0.16504854368932	0.85	0.194174757281553	3.64791666666667	17
+13	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Poria}	0.16504854368932	1	0.16504854368932	3.96153846153846	17
+14	{Moutan Root Bark,Oriental Waterplantain Rhizome,Poria} 	 {Asiatic Cornelian Cherry Fruit}	0.16504854368932	0.85	0.194174757281553	3.64791666666667	17
+15	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Poria} 	 {Oriental Waterplantain Rhizome}	0.16504854368932	1	0.16504854368932	4.47826086956522	17
+16	{Dioscorea Rhizome,Oriental Waterplantain Rhizome} 	 {Poria}	0.155339805825243	0.941176470588235	0.16504854368932	3.72850678733032	16
+17	{Dioscorea Rhizome,Poria} 	 {Oriental Waterplantain Rhizome}	0.155339805825243	0.941176470588235	0.16504854368932	4.21483375959079	16
+18	{Moutan Root Bark,Poria} 	 {Dioscorea Rhizome}	0.155339805825243	0.8	0.194174757281553	3.16923076923077	16
+19	{Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Poria}	0.155339805825243	0.941176470588235	0.16504854368932	3.72850678733032	16
+20	{Moutan Root Bark,Oriental Waterplantain Rhizome,Poria} 	 {Dioscorea Rhizome}	0.155339805825243	0.8	0.194174757281553	3.16923076923077	16
+21	{Dioscorea Rhizome,Moutan Root Bark,Poria} 	 {Oriental Waterplantain Rhizome}	0.155339805825243	1	0.155339805825243	4.47826086956522	16
+22	{Asiatic Cornelian Cherry Fruit,Oriental Waterplantain Rhizome} 	 {Dioscorea Rhizome}	0.145631067961165	0.882352941176471	0.16504854368932	3.49547511312217	15
+23	{Dioscorea Rhizome,Oriental Waterplantain Rhizome} 	 {Asiatic Cornelian Cherry Fruit}	0.145631067961165	0.882352941176471	0.16504854368932	3.78676470588235	15
+24	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome} 	 {Oriental Waterplantain Rhizome}	0.145631067961165	0.833333333333333	0.174757281553398	3.73188405797102	15
+25	{Moutan Root Bark,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.145631067961165	0.833333333333333	0.174757281553398	3.73188405797102	15
+26	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome} 	 {Poria}	0.145631067961165	0.833333333333333	0.174757281553398	3.30128205128205	15
+27	{Asiatic Cornelian Cherry Fruit,Poria} 	 {Dioscorea Rhizome}	0.145631067961165	0.882352941176471	0.16504854368932	3.49547511312217	15
+28	{Dioscorea Rhizome,Poria} 	 {Asiatic Cornelian Cherry Fruit}	0.145631067961165	0.882352941176471	0.16504854368932	3.78676470588235	15
+29	{Moutan Root Bark,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.145631067961165	0.833333333333333	0.174757281553398	3.30128205128205	15
+30	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Oriental Waterplantain Rhizome} 	 {Poria}	0.145631067961165	1	0.145631067961165	3.96153846153846	15
+31	{Asiatic Cornelian Cherry Fruit,Oriental Waterplantain Rhizome,Poria} 	 {Dioscorea Rhizome}	0.145631067961165	0.882352941176471	0.16504854368932	3.49547511312217	15
+32	{Dioscorea Rhizome,Oriental Waterplantain Rhizome,Poria} 	 {Asiatic Cornelian Cherry Fruit}	0.145631067961165	0.9375	0.155339805825243	4.0234375	15
+33	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Poria} 	 {Oriental Waterplantain Rhizome}	0.145631067961165	1	0.145631067961165	4.47826086956522	15
+34	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Dioscorea Rhizome}	0.145631067961165	0.882352941176471	0.16504854368932	3.49547511312217	15
+35	{Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Asiatic Cornelian Cherry Fruit}	0.145631067961165	0.882352941176471	0.16504854368932	3.78676470588235	15
+36	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark} 	 {Oriental Waterplantain Rhizome}	0.145631067961165	0.882352941176471	0.16504854368932	3.95140664961637	15
+37	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark} 	 {Poria}	0.145631067961165	0.882352941176471	0.16504854368932	3.49547511312217	15
+38	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Poria} 	 {Dioscorea Rhizome}	0.145631067961165	0.882352941176471	0.16504854368932	3.49547511312217	15
+39	{Dioscorea Rhizome,Moutan Root Bark,Poria} 	 {Asiatic Cornelian Cherry Fruit}	0.145631067961165	0.9375	0.155339805825243	4.0234375	15
+40	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Poria}	0.145631067961165	1	0.145631067961165	3.96153846153846	15
+41	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Oriental Waterplantain Rhizome,Poria} 	 {Dioscorea Rhizome}	0.145631067961165	0.882352941176471	0.16504854368932	3.49547511312217	15
+42	{Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome,Poria} 	 {Asiatic Cornelian Cherry Fruit}	0.145631067961165	0.9375	0.155339805825243	4.0234375	15
+43	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark,Poria} 	 {Oriental Waterplantain Rhizome}	0.145631067961165	1	0.145631067961165	4.47826086956522	15
+44	{Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.12621359223301	0.866666666666667	0.145631067961165	3.43333333333333	13
+45	{Dioscorea Rhizome,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.12621359223301	0.8125	0.155339805825243	3.63858695652174	13
+46	{Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.12621359223301	0.866666666666667	0.145631067961165	3.43333333333333	13
+47	{Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.12621359223301	0.928571428571429	0.135922330097087	4.1583850931677	13
+48	{Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.12621359223301	0.866666666666667	0.145631067961165	3.43333333333333	13
+49	{Dioscorea Rhizome,Moutan Root Bark,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.12621359223301	0.866666666666667	0.145631067961165	3.88115942028986	13
+50	{Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.12621359223301	0.866666666666667	0.145631067961165	3.43333333333333	13
+51	{Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.12621359223301	1	0.12621359223301	4.47826086956522	13
+52	{Eclipta Herb,Moutan Root Bark} 	 {Glossy Privet Fruit}	0.116504854368932	0.923076923076923	0.12621359223301	3.52136752136752	12
+53	{Glossy Privet Fruit,Moutan Root Bark} 	 {Eclipta Herb}	0.116504854368932	0.8	0.145631067961165	3.92380952380952	12
+54	{Eclipta Herb,Rehmannia Root} 	 {Glossy Privet Fruit}	0.116504854368932	0.923076923076923	0.12621359223301	3.52136752136752	12
+55	{Glossy Privet Fruit,Rehmannia Root} 	 {Eclipta Herb}	0.116504854368932	0.8	0.145631067961165	3.92380952380952	12
+56	{Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.116504854368932	0.8	0.145631067961165	3.43333333333333	12
+57	{Asiatic Cornelian Cherry Fruit,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	0.8	0.145631067961165	3.58260869565217	12
+58	{Anemarrhena Rhizome,Oriental Waterplantain Rhizome} 	 {Dioscorea Rhizome}	0.116504854368932	0.857142857142857	0.135922330097087	3.3956043956044	12
+59	{Anemarrhena Rhizome,Oriental Waterplantain Rhizome} 	 {Poria}	0.116504854368932	0.857142857142857	0.135922330097087	3.3956043956044	12
+60	{Anemarrhena Rhizome,Poria} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	0.923076923076923	0.12621359223301	4.13377926421405	12
+61	{Oriental Waterplantain Rhizome,Rehmannia Root} 	 {Poria}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+62	{Poria,Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	0.857142857142857	0.135922330097087	3.83850931677019	12
+63	{Asiatic Cornelian Cherry Fruit,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.116504854368932	0.8	0.145631067961165	3.16923076923077	12
+64	{Anemarrhena Rhizome,Asiatic Cornelian Cherry Fruit} 	 {Dioscorea Rhizome}	0.116504854368932	1	0.116504854368932	3.96153846153846	12
+65	{Asiatic Cornelian Cherry Fruit,Prepared Rehmannia Root} 	 {Poria}	0.116504854368932	0.8	0.145631067961165	3.16923076923077	12
+66	{Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.116504854368932	0.857142857142857	0.135922330097087	3.67857142857143	12
+67	{Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.116504854368932	0.857142857142857	0.135922330097087	3.3956043956044	12
+68	{Anemarrhena Rhizome,Poria} 	 {Dioscorea Rhizome}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+69	{Asiatic Cornelian Cherry Fruit,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.116504854368932	1	0.116504854368932	3.96153846153846	12
+70	{Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.116504854368932	0.923076923076923	0.12621359223301	3.96153846153846	12
+71	{Asiatic Cornelian Cherry Fruit,Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	1	0.116504854368932	4.47826086956522	12
+72	{Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.116504854368932	0.8	0.145631067961165	3.43333333333333	12
+73	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	0.923076923076923	0.12621359223301	4.13377926421405	12
+74	{Dioscorea Rhizome,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+75	{Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+76	{Dioscorea Rhizome,Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	1	0.116504854368932	4.47826086956522	12
+77	{Anemarrhena Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Dioscorea Rhizome}	0.116504854368932	0.857142857142857	0.135922330097087	3.3956043956044	12
+78	{Anemarrhena Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Poria}	0.116504854368932	0.857142857142857	0.135922330097087	3.3956043956044	12
+79	{Anemarrhena Rhizome,Moutan Root Bark,Poria} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	1	0.116504854368932	4.47826086956522	12
+80	{Moutan Root Bark,Oriental Waterplantain Rhizome,Rehmannia Root} 	 {Poria}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+81	{Moutan Root Bark,Poria,Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	1	0.116504854368932	4.47826086956522	12
+82	{Anemarrhena Rhizome,Asiatic Cornelian Cherry Fruit,Moutan Root Bark} 	 {Dioscorea Rhizome}	0.116504854368932	1	0.116504854368932	3.96153846153846	12
+83	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Prepared Rehmannia Root} 	 {Poria}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+84	{Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.116504854368932	0.923076923076923	0.12621359223301	3.96153846153846	12
+85	{Dioscorea Rhizome,Moutan Root Bark,Prepared Rehmannia Root} 	 {Poria}	0.116504854368932	0.8	0.145631067961165	3.16923076923077	12
+86	{Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+87	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.116504854368932	1	0.116504854368932	3.96153846153846	12
+88	{Moutan Root Bark,Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.116504854368932	0.923076923076923	0.12621359223301	3.96153846153846	12
+89	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	1	0.116504854368932	4.47826086956522	12
+90	{Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+91	{Moutan Root Bark,Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.116504854368932	0.923076923076923	0.12621359223301	3.65680473372781	12
+92	{Dioscorea Rhizome,Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.116504854368932	1	0.116504854368932	4.47826086956522	12
+93	{Anemarrhena Rhizome,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+94	{Asiatic Cornelian Cherry Fruit,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+95	{Dioscorea Rhizome,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.106796116504854	0.846153846153846	0.12621359223301	3.63141025641026	11
+96	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	4.10507246376812	11
+97	{Anemarrhena Rhizome,Dioscorea Rhizome,Oriental Waterplantain Rhizome} 	 {Poria}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+98	{Anemarrhena Rhizome,Oriental Waterplantain Rhizome,Poria} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+99	{Anemarrhena Rhizome,Dioscorea Rhizome,Poria} 	 {Oriental Waterplantain Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	4.10507246376812	11
+100	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+101	{Asiatic Cornelian Cherry Fruit,Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+102	{Dioscorea Rhizome,Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.106796116504854	0.916666666666667	0.116504854368932	3.93402777777778	11
+103	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.846153846153846	0.12621359223301	3.35207100591716	11
+104	{Anemarrhena Rhizome,Moutan Root Bark,Poria} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+105	{Anemarrhena Rhizome,Moutan Root Bark,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+106	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.106796116504854	1	0.106796116504854	3.96153846153846	11
+107	{Asiatic Cornelian Cherry Fruit,Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+108	{Dioscorea Rhizome,Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.106796116504854	0.916666666666667	0.116504854368932	3.93402777777778	11
+109	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.106796116504854	1	0.106796116504854	4.47826086956522	11
+110	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+111	{Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.106796116504854	0.846153846153846	0.12621359223301	3.63141025641026	11
+112	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.106796116504854	1	0.106796116504854	4.47826086956522	11
+113	{Anemarrhena Rhizome,Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome} 	 {Poria}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+114	{Anemarrhena Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome,Poria} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+115	{Anemarrhena Rhizome,Dioscorea Rhizome,Moutan Root Bark,Poria} 	 {Oriental Waterplantain Rhizome}	0.106796116504854	1	0.106796116504854	4.47826086956522	11
+116	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark,Prepared Rehmannia Root} 	 {Poria}	0.106796116504854	1	0.106796116504854	3.96153846153846	11
+117	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+118	{Dioscorea Rhizome,Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.106796116504854	0.916666666666667	0.116504854368932	3.93402777777778	11
+119	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome,Prepared Rehmannia Root} 	 {Poria}	0.106796116504854	1	0.106796116504854	3.96153846153846	11
+120	{Asiatic Cornelian Cherry Fruit,Moutan Root Bark,Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Dioscorea Rhizome}	0.106796116504854	0.916666666666667	0.116504854368932	3.63141025641026	11
+121	{Dioscorea Rhizome,Moutan Root Bark,Oriental Waterplantain Rhizome,Poria,Prepared Rehmannia Root} 	 {Asiatic Cornelian Cherry Fruit}	0.106796116504854	0.916666666666667	0.116504854368932	3.93402777777778	11
+122	{Asiatic Cornelian Cherry Fruit,Dioscorea Rhizome,Moutan Root Bark,Poria,Prepared Rehmannia Root} 	 {Oriental Waterplantain Rhizome}	0.106796116504854	1	0.106796116504854	4.47826086956522	11

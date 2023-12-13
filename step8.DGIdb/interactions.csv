@@ -1,0 +1,69 @@
+﻿Name,Drug,Interaction Type & Directionality,Interaction Score
+STAT1,PICOPLATIN,n/a,20.61
+STAT1,GUTTIFERONE K,n/a,10.3
+STAT1,GARCINOL,n/a,5.15
+STAT1,CHEMBL85826,n/a,1.14
+STAT1,IPRIFLAVONE,n/a,0.86
+STAT1,CISPLATIN,n/a,0.14
+JAK2,RUXOLITINIB,inhibitor (inhibitory),4.99
+JAK2,FEDRATINIB,inhibitor (inhibitory),3.99
+JAK2,GANDOTINIB,inhibitor (inhibitory),2.99
+JAK2,AC-430,inhibitor (inhibitory),2.99
+JAK2,XL-019,inhibitor (inhibitory),2.99
+JAK2,NS-018,inhibitor (inhibitory),1.99
+JAK2,BMS-911543,inhibitor (inhibitory),1.99
+JAK2,MOMELOTINIB,inhibitor (inhibitory),1.66
+JAK2,BARICITINIB,inhibitor (inhibitory),1.33
+JAK2,AZD-1480,inhibitor (inhibitory),1
+JAK2,PACRITINIB,inhibitor (inhibitory),1
+JAK2,LS-104,inhibitor (inhibitory),1
+JAK2,CHEMBL473773,n/a,0.5
+JAK2,CT-1578,inhibitor (inhibitory),0.5
+JAK2,RUXOLITINIB PHOSPHATE,inhibitor (inhibitory),0.5
+JAK2,TOFACITINIB,"antagonist (inhibitory), inhibitor (inhibitory)",0.43
+JAK2,LESTAURTINIB,inhibitor (inhibitory),0.4
+JAK2,ITACITINIB,inhibitor (inhibitory),0.33
+JAK2,SGI-1776,n/a,0.33
+JAK2,CHEMBL71191,n/a,0.33
+JAK2,AT-9283,inhibitor (inhibitory),0.27
+JAK2,TOFACITINIB CITRATE,inhibitor (inhibitory),0.25
+JAK2,CERDULATINIB,inhibitor (inhibitory),0.2
+JAK2,PEFICITINIB,inhibitor (inhibitory),0.2
+JAK2,6-AZAURIDINE,n/a,0.2
+JAK2,PEMBROLIZUMAB,n/a,0.18
+JAK2,CEP-11981,n/a,0.18
+JAK2,ZOTIRACICLIB,inhibitor (inhibitory),0.17
+JAK2,CHEMBL1170485,n/a,0.17
+JAK2,CHEMBL56543,n/a,0.14
+JAK2,CHEMBL29197,n/a,0.12
+JAK2,GIVINOSTAT,n/a,0.08
+JAK2,PICTILISIB,n/a,0.07
+JAK2,TRIAMTERENE,n/a,0.06
+JAK2,CHEMBL53898,n/a,0.05
+JAK2,TYRPHOSTIN 23,n/a,0.05
+JAK2,DACTOLISIB,n/a,0.05
+JAK2,THIRAM,n/a,0.04
+JAK2,ENMD-2076,n/a,0.04
+JAK2,ADAVOSERTIB,n/a,0.03
+JAK2,LAUROGUADINE,n/a,0.04
+JAK2,SIROLIMUS,n/a,0.04
+JAK2,IMATINIB,n/a,0.03
+JAK2,CHEMBL546797,n/a,0.03
+JAK2,AST-487,n/a,0.03
+JAK2,GW843682X,n/a,0.03
+JAK2,CHEMBL379975,n/a,0.02
+JAK2,CHEMBL1997335,n/a,0.02
+JAK2,JNJ-7706621,inhibitor (inhibitory),0.02
+JAK2,ERLOTINIB,n/a,0.02
+JAK2,PACLITAXEL,n/a,0.02
+JAK2,PD-0166285,n/a,0.02
+JAK2,ENTRECTINIB,inhibitor (inhibitory),0.02
+JAK2,TOZASERTIB,n/a,0.01
+JAK2,DASATINIB,n/a,0.01
+JAK2,RG-1530,inhibitor (inhibitory),0.01
+JAK2,DOVITINIB,n/a,0.01
+JAK2,PF-00562271,n/a,0.01
+JAK2,ILORASERTIB,n/a,0.01
+JAK2,CYC-116,n/a,0.01
+JAK2,CENISERTIB,n/a,0.01
+JAK2,TAE-684,n/a,0.01

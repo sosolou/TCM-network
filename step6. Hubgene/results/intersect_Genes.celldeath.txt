@@ -1,0 +1,3 @@
+ferr	pyro	anoikis	copper
+	STAT1		
+	NOD2		

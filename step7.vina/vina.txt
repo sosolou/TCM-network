@@ -1,0 +1,36 @@
+Drug	drug_py	MolId	MolName	MOlecule_url	InChIKey	Target	TargetFullName	Uniprot_ID
+Anemarrhena Rhizome	知母	MOL000546	diosgenin	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Anemarrhena Rhizome	知母	MOL000631	coumaroyltyramine	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Anemarrhena Rhizome	知母	MOL001677	asperglaucide	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Anemarrhena Rhizome	知母	MOL004498	12-O-Nicotinoylisolineolone	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Anemarrhena Rhizome	知母	MOL004507	Smilagenone	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Anemarrhena Rhizome	知母	MOL004517	Xuelianlacton e	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Anemarrhena Rhizome	知母	MOL004530	Timosaponin A-III_qt	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Asiatic Cornelian Cherry Fruit	山茱萸	MOL000207	Methyleugenol	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Asiatic Cornelian Cherry Fruit	山茱萸	MOL001604	Linalool	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Asiatic Cornelian Cherry Fruit	山茱萸	MOL005386	Vulgarin	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Asiatic Cornelian Cherry Fruit	山茱萸	MOL005503	Cornudentanone	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Asiatic Cornelian Cherry Fruit	山茱萸	MOL005561	Anisylacetone	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Asiatic Cornelian Cherry Fruit	山茱萸	MOL008457	Tetrahydroalstonine	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL000309	denudatin,a	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL000310	Denudatin B	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL000322	Kadsurenone	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL000628	darutoside	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL001559	piperlonguminine	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL005429	hancinol	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL005444	3-[2-(3-hydroxyphenyl)ethyl]-5-methoxyphenol	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL005460	ophipogonin D_qt	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL005463	Methylcimicifugoside_qt	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Dioscorea Rhizome	山药	MOL005464	(3S,4aS,4bS,8R,8aS,10aR)-3-hydroxy-1,1,4a,8-tetramethyl-7-vinyl-3,4,4b,8,8a,9,10,10a-octahydrophenanthrene-2,5-dione	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Eclipta Herb	墨旱莲	MOL003388	Isodesacetyluvaricin	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Eclipta Herb	墨旱莲	MOL003391	alpha-Terthienyl methyl acetate	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Glossy Privet Fruit	女贞子	MOL005168	Nuezhengalaside_qt	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Glossy Privet Fruit	女贞子	MOL005210	Nuphleine	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Moutan Root Bark	牡丹皮	MOL005090	oxypaeoniflorin_qt	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Oriental Waterplantain Rhizome	泽泻	MOL000826	(1R,3aS,4S,8aR)-7-(2-hydroxypropan-2-yl)-1,4-dimethyl-2,3,3a,5,6,8a-hexahydroazulene-1,4-diol	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Oriental Waterplantain Rhizome	泽泻	MOL000830	Alisol B	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Oriental Waterplantain Rhizome	泽泻	MOL000839	rel-(1R,3aS,4S,7S,8R,8aS)-7-isopropyl-1,4-dimethyldecahydro-4,7-epoxyazulene-1,8-diol	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Oriental Waterplantain Rhizome	泽泻	MOL000853	alisol B	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Prepared Rehmannia Root	熟地黄	MOL003697	methyl 9,10-methylene-hexadecanoate	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Prepared Rehmannia Root	熟地黄	MOL003717	METHYL PALMITOLEATE	NA	NA	JAK2	Tyrosine-protein kinase JAK2	O60674
+Eclipta Herb	墨旱莲	MOL002975	butin	NA	NA	STAT1	Signal transducer and activator of transcription 1-alpha/beta	P42224

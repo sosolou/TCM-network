@@ -1,0 +1,11 @@
+drug	freq	percent(%)
+1	Rehmannia Root	59	57.28
+2	Moutan Root Bark	45	43.69
+3	Anemarrhena Rhizome	38	36.89
+4	Prepared Rehmannia Root	28	27.18
+5	Glossy Privet Fruit	27	26.21
+6	Dioscorea Rhizome	26	25.24
+7	Poria	26	25.24
+8	Asiatic Cornelian Cherry Fruit	24	23.3
+9	Oriental Waterplantain Rhizome	23	22.33
+10	Eclipta Herb	21	20.39

@@ -1,0 +1,778 @@
+Node	Type	Anemarrhena Rhizome	Eclipta Herb	Asiatic Cornelian Cherry Fruit	Prepared Rehmannia Root	Moutan Root Bark	Dioscorea Rhizome	Glossy Privet Fruit	Oriental Waterplantain Rhizome	Rehmannia Root	Poria
+ESR1	gene	0	0	0	0	0	0	0	0	0	0
+PIM1	gene	0	0	0	0	0	0	0	0	0	0
+ESR2	gene	0	0	0	0	0	0	0	0	0	0
+CSNK2A1	gene	0	0	0	0	0	0	0	0	0	0
+ELANE	gene	0	0	0	0	0	0	0	0	0	0
+BCL2	gene	0	0	0	0	0	0	0	0	0	0
+FTO	gene	0	0	0	0	0	0	0	0	0	0
+LIMK1	gene	0	0	0	0	0	0	0	0	0	0
+LCK	gene	0	0	0	0	0	0	0	0	0	0
+CYP19A1	gene	0	0	0	0	0	0	0	0	0	0
+ABCB1	gene	0	0	0	0	0	0	0	0	0	0
+BCHE	gene	0	0	0	0	0	0	0	0	0	0
+XDH	gene	0	0	0	0	0	0	0	0	0	0
+CYP1B1	gene	0	0	0	0	0	0	0	0	0	0
+KDR	gene	0	0	0	0	0	0	0	0	0	0
+AXL	gene	0	0	0	0	0	0	0	0	0	0
+EGFR	gene	0	0	0	0	0	0	0	0	0	0
+PARP1	gene	0	0	0	0	0	0	0	0	0	0
+TNKS	gene	0	0	0	0	0	0	0	0	0	0
+CRHR1	gene	0	0	0	0	0	0	0	0	0	0
+CDK6	gene	0	0	0	0	0	0	0	0	0	0
+ABCG2	gene	0	0	0	0	0	0	0	0	0	0
+MGAM	gene	0	0	0	0	0	0	0	0	0	0
+FLT3	gene	0	0	0	0	0	0	0	0	0	0
+SYK	gene	0	0	0	0	0	0	0	0	0	0
+GSK3B	gene	0	0	0	0	0	0	0	0	0	0
+ABCC1	gene	0	0	0	0	0	0	0	0	0	0
+TTR	gene	0	0	0	0	0	0	0	0	0	0
+CFTR	gene	0	0	0	0	0	0	0	0	0	0
+AR	gene	0	0	0	0	0	0	0	0	0	0
+CYP17A1	gene	0	0	0	0	0	0	0	0	0	0
+NR1H3	gene	0	0	0	0	0	0	0	0	0	0
+HMGCR	gene	0	0	0	0	0	0	0	0	0	0
+SHBG	gene	0	0	0	0	0	0	0	0	0	0
+RORC	gene	0	0	0	0	0	0	0	0	0	0
+SLC6A4	gene	0	0	0	0	0	0	0	0	0	0
+PPARD	gene	0	0	0	0	0	0	0	0	0	0
+SERPINA6	gene	0	0	0	0	0	0	0	0	0	0
+G6PD	gene	0	0	0	0	0	0	0	0	0	0
+IDO1	gene	0	0	0	0	0	0	0	0	0	0
+CHRM2	gene	0	0	0	0	0	0	0	0	0	0
+ACHE	gene	0	0	0	0	0	0	0	0	0	0
+CYP2C19	gene	0	0	0	0	0	0	0	0	0	0
+ABHD6	gene	0	0	0	0	0	0	0	0	0	0
+PER2	gene	0	0	0	0	0	0	0	0	0	0
+HSD17B3	gene	0	0	0	0	0	0	0	0	0	0
+TOP1	gene	0	0	0	0	0	0	0	0	0	0
+NR1H4	gene	0	0	0	0	0	0	0	0	0	0
+SHH	gene	0	0	0	0	0	0	0	0	0	0
+HSD11B1	gene	0	0	0	0	0	0	0	0	0	0
+PTGFR	gene	0	0	0	0	0	0	0	0	0	0
+BRD4	gene	0	0	0	0	0	0	0	0	0	0
+BRD2	gene	0	0	0	0	0	0	0	0	0	0
+JAK1	gene	0	0	0	0	0	0	0	0	0	0
+PTGER3	gene	0	0	0	0	0	0	0	0	0	0
+PTGER1	gene	0	0	0	0	0	0	0	0	0	0
+PTGER4	gene	0	0	0	0	0	0	0	0	0	0
+JAK3	gene	0	0	0	0	0	0	0	0	0	0
+JAK2	gene	0	0	0	0	0	0	0	0	0	0
+TYK2	gene	0	0	0	0	0	0	0	0	0	0
+CA4	gene	0	0	0	0	0	0	0	0	0	0
+PTGER2	gene	0	0	0	0	0	0	0	0	0	0
+ADRB2	gene	0	0	0	0	0	0	0	0	0	0
+ADRB1	gene	0	0	0	0	0	0	0	0	0	0
+ADRB3	gene	0	0	0	0	0	0	0	0	0	0
+CA3	gene	0	0	0	0	0	0	0	0	0	0
+BACE1	gene	0	0	0	0	0	0	0	0	0	0
+PIK3CD	gene	0	0	0	0	0	0	0	0	0	0
+PRKDC	gene	0	0	0	0	0	0	0	0	0	0
+TYR	gene	0	0	0	0	0	0	0	0	0	0
+TERT	gene	0	0	0	0	0	0	0	0	0	0
+FAAH	gene	0	0	0	0	0	0	0	0	0	0
+CD81	gene	0	0	0	0	0	0	0	0	0	0
+PTPN2	gene	0	0	0	0	0	0	0	0	0	0
+NR3C1	gene	0	0	0	0	0	0	0	0	0	0
+PTGS2	gene	0	0	0	0	0	0	0	0	0	0
+SIGMAR1	gene	0	0	0	0	0	0	0	0	0	0
+PRKCA	gene	0	0	0	0	0	0	0	0	0	0
+MAPK14	gene	0	0	0	0	0	0	0	0	0	0
+PPARG	gene	0	0	0	0	0	0	0	0	0	0
+MTOR	gene	0	0	0	0	0	0	0	0	0	0
+HSP90AA1	gene	0	0	0	0	0	0	0	0	0	0
+MAPK1	gene	0	0	0	0	0	0	0	0	0	0
+ALOX5	gene	0	0	0	0	0	0	0	0	0	0
+PTGS1	gene	0	0	0	0	0	0	0	0	0	0
+CCR1	gene	0	0	0	0	0	0	0	0	0	0
+CSF1R	gene	0	0	0	0	0	0	0	0	0	0
+PPP2CA	gene	0	0	0	0	0	0	0	0	0	0
+MDM2	gene	0	0	0	0	0	0	0	0	0	0
+CCND1	gene	0	0	0	0	0	0	0	0	0	0
+DYRK1A	gene	0	0	0	0	0	0	0	0	0	0
+CDK2	gene	0	0	0	0	0	0	0	0	0	0
+CLK2	gene	0	0	0	0	0	0	0	0	0	0
+P2RX3	gene	0	0	0	0	0	0	0	0	0	0
+F10	gene	0	0	0	0	0	0	0	0	0	0
+VDR	gene	0	0	0	0	0	0	0	0	0	0
+LRRK2	gene	0	0	0	0	0	0	0	0	0	0
+MAPK11	gene	0	0	0	0	0	0	0	0	0	0
+PRKCH	gene	0	0	0	0	0	0	0	0	0	0
+NTRK1	gene	0	0	0	0	0	0	0	0	0	0
+ITGAL	gene	0	0	0	0	0	0	0	0	0	0
+DPP4	gene	0	0	0	0	0	0	0	0	0	0
+PREP	gene	0	0	0	0	0	0	0	0	0	0
+RPS6KB1	gene	0	0	0	0	0	0	0	0	0	0
+ACVRL1	gene	0	0	0	0	0	0	0	0	0	0
+ROCK2	gene	0	0	0	0	0	0	0	0	0	0
+PRKCD	gene	0	0	0	0	0	0	0	0	0	0
+PRKCQ	gene	0	0	0	0	0	0	0	0	0	0
+HSD11B2	gene	0	0	0	0	0	0	0	0	0	0
+TYRO3	gene	0	0	0	0	0	0	0	0	0	0
+MERTK	gene	0	0	0	0	0	0	0	0	0	0
+NR1I2	gene	0	0	0	0	0	0	0	0	0	0
+AVPR1A	gene	0	0	0	0	0	0	0	0	0	0
+INSR	gene	0	0	0	0	0	0	0	0	0	0
+ITK	gene	0	0	0	0	0	0	0	0	0	0
+MTNR1B	gene	0	0	0	0	0	0	0	0	0	0
+CASR	gene	0	0	0	0	0	0	0	0	0	0
+PGR	gene	0	0	0	0	0	0	0	0	0	0
+NAMPT	gene	0	0	0	0	0	0	0	0	0	0
+NOS2	gene	0	0	0	0	0	0	0	0	0	0
+ACACB	gene	0	0	0	0	0	0	0	0	0	0
+PRKCB	gene	0	0	0	0	0	0	0	0	0	0
+MAPK10	gene	0	0	0	0	0	0	0	0	0	0
+PDE2A	gene	0	0	0	0	0	0	0	0	0	0
+CDK1	gene	0	0	0	0	0	0	0	0	0	0
+MAP3K14	gene	0	0	0	0	0	0	0	0	0	0
+IGF1R	gene	0	0	0	0	0	0	0	0	0	0
+F2	gene	0	0	0	0	0	0	0	0	0	0
+SMO	gene	0	0	0	0	0	0	0	0	0	0
+MAPK8	gene	0	0	0	0	0	0	0	0	0	0
+FYN	gene	0	0	0	0	0	0	0	0	0	0
+YES1	gene	0	0	0	0	0	0	0	0	0	0
+SRC	gene	0	0	0	0	0	0	0	0	0	0
+GRIN2A	gene	0	0	0	0	0	0	0	0	0	0
+GRIA2	gene	0	0	0	0	0	0	0	0	0	0
+PIK3C3	gene	0	0	0	0	0	0	0	0	0	0
+MAPKAPK2	gene	0	0	0	0	0	0	0	0	0	0
+EZH2	gene	0	0	0	0	0	0	0	0	0	0
+CXCR3	gene	0	0	0	0	0	0	0	0	0	0
+IL6ST	gene	0	0	0	0	0	0	0	0	0	0
+PDGFRA	gene	0	0	0	0	0	0	0	0	0	0
+ADORA2A	gene	0	0	0	0	0	0	0	0	0	0
+EPHB3	gene	0	0	0	0	0	0	0	0	0	0
+MAP3K11	gene	0	0	0	0	0	0	0	0	0	0
+TACR1	gene	0	0	0	0	0	0	0	0	0	0
+TGFBR2	gene	0	0	0	0	0	0	0	0	0	0
+TGFBR1	gene	0	0	0	0	0	0	0	0	0	0
+FLT1	gene	0	0	0	0	0	0	0	0	0	0
+PDGFRB	gene	0	0	0	0	0	0	0	0	0	0
+KIT	gene	0	0	0	0	0	0	0	0	0	0
+RET	gene	0	0	0	0	0	0	0	0	0	0
+FGFR3	gene	0	0	0	0	0	0	0	0	0	0
+ZAP70	gene	0	0	0	0	0	0	0	0	0	0
+TNF	gene	0	0	0	0	0	0	0	0	0	0
+F2R	gene	0	0	0	0	0	0	0	0	0	0
+CYP24A1	gene	0	0	0	0	0	0	0	0	0	0
+MAPK3	gene	0	0	0	0	0	0	0	0	0	0
+C5AR1	gene	0	0	0	0	0	0	0	0	0	0
+KCNA3	gene	0	0	0	0	0	0	0	0	0	0
+DUT	gene	0	0	0	0	0	0	0	0	0	0
+IKBKB	gene	0	0	0	0	0	0	0	0	0	0
+CHUK	gene	0	0	0	0	0	0	0	0	0	0
+RAF1	gene	0	0	0	0	0	0	0	0	0	0
+ADORA1	gene	0	0	0	0	0	0	0	0	0	0
+MMP1	gene	0	0	0	0	0	0	0	0	0	0
+RASGRP3	gene	0	0	0	0	0	0	0	0	0	0
+BRAF	gene	0	0	0	0	0	0	0	0	0	0
+MMP3	gene	0	0	0	0	0	0	0	0	0	0
+MMP9	gene	0	0	0	0	0	0	0	0	0	0
+VEGFA	gene	0	0	0	0	0	0	0	0	0	0
+FGF1	gene	0	0	0	0	0	0	0	0	0	0
+FGF2	gene	0	0	0	0	0	0	0	0	0	0
+MPO	gene	0	0	0	0	0	0	0	0	0	0
+CXCR2	gene	0	0	0	0	0	0	0	0	0	0
+CYP11B1	gene	0	0	0	0	0	0	0	0	0	0
+CYP11B2	gene	0	0	0	0	0	0	0	0	0	0
+LIPA	gene	0	0	0	0	0	0	0	0	0	0
+XIAP	gene	0	0	0	0	0	0	0	0	0	0
+ERN1	gene	0	0	0	0	0	0	0	0	0	0
+AKT1	gene	0	0	0	0	0	0	0	0	0	0
+VAV1	gene	0	0	0	0	0	0	0	0	0	0
+F2RL1	gene	0	0	0	0	0	0	0	0	0	0
+EDNRB	gene	0	0	0	0	0	0	0	0	0	0
+CTSS	gene	0	0	0	0	0	0	0	0	0	0
+CTSL	gene	0	0	0	0	0	0	0	0	0	0
+SCN9A	gene	0	0	0	0	0	0	0	0	0	0
+ADAM17	gene	0	0	0	0	0	0	0	0	0	0
+ADAM10	gene	0	0	0	0	0	0	0	0	0	0
+ADAMTS4	gene	0	0	0	0	0	0	0	0	0	0
+DRD4	gene	0	0	0	0	0	0	0	0	0	0
+HTR2A	gene	0	0	0	0	0	0	0	0	0	0
+KCNH2	gene	0	0	0	0	0	0	0	0	0	0
+LDLR	gene	0	0	0	0	0	0	0	0	0	0
+ADA	gene	0	0	0	0	0	0	0	0	0	0
+CDK5	gene	0	0	0	0	0	0	0	0	0	0
+MC1R	gene	0	0	0	0	0	0	0	0	0	0
+HSP90AB1	gene	0	0	0	0	0	0	0	0	0	0
+JUN	gene	0	0	0	0	0	0	0	0	0	0
+CAPN1	gene	0	0	0	0	0	0	0	0	0	0
+F9	gene	0	0	0	0	0	0	0	0	0	0
+OPRM1	gene	0	0	0	0	0	0	0	0	0	0
+ACKR3	gene	0	0	0	0	0	0	0	0	0	0
+OXTR	gene	0	0	0	0	0	0	0	0	0	0
+PFKFB3	gene	0	0	0	0	0	0	0	0	0	0
+MAPK13	gene	0	0	0	0	0	0	0	0	0	0
+P2RX7	gene	0	0	0	0	0	0	0	0	0	0
+AGTR1	gene	0	0	0	0	0	0	0	0	0	0
+CYP26A1	gene	0	0	0	0	0	0	0	0	0	0
+NLRP3	gene	0	0	0	0	0	0	0	0	0	0
+ITGB1	gene	0	0	0	0	0	0	0	0	0	0
+ACE	gene	0	0	0	0	0	0	0	0	0	0
+RARB	gene	0	0	0	0	0	0	0	0	0	0
+CYP3A4	gene	0	0	0	0	0	0	0	0	0	0
+CTSA	gene	0	0	0	0	0	0	0	0	0	0
+CASP3	gene	0	0	0	0	0	0	0	0	0	0
+CASP8	gene	0	0	0	0	0	0	0	0	0	0
+ITGA4	gene	0	0	0	0	0	0	0	0	0	0
+SERPINE1	gene	0	0	0	0	0	0	0	0	0	0
+TYMS	gene	0	0	0	0	0	0	0	0	0	0
+PLA2G2A	gene	0	0	0	0	0	0	0	0	0	0
+AMPD2	gene	0	0	0	0	0	0	0	0	0	0
+SSTR3	gene	0	0	0	0	0	0	0	0	0	0
+HRH1	gene	0	0	0	0	0	0	0	0	0	0
+MMP2	gene	0	0	0	0	0	0	0	0	0	0
+BACE2	gene	0	0	0	0	0	0	0	0	0	0
+FGFR1	gene	0	0	0	0	0	0	0	0	0	0
+TP53	gene	0	0	0	0	0	0	0	0	0	0
+AGTR2	gene	0	0	0	0	0	0	0	0	0	0
+STAT5B	gene	0	0	0	0	0	0	0	0	0	0
+S1PR2	gene	0	0	0	0	0	0	0	0	0	0
+PTPN22	gene	0	0	0	0	0	0	0	0	0	0
+TNK2	gene	0	0	0	0	0	0	0	0	0	0
+GCG	gene	0	0	0	0	0	0	0	0	0	0
+PIK3CG	gene	0	0	0	0	0	0	0	0	0	0
+CASP1	gene	0	0	0	0	0	0	0	0	0	0
+CPT2	gene	0	0	0	0	0	0	0	0	0	0
+SIRT2	gene	0	0	0	0	0	0	0	0	0	0
+ACP1	gene	0	0	0	0	0	0	0	0	0	0
+S1PR1	gene	0	0	0	0	0	0	0	0	0	0
+IL2	gene	0	0	0	0	0	0	0	0	0	0
+IKBKE	gene	0	0	0	0	0	0	0	0	0	0
+TBK1	gene	0	0	0	0	0	0	0	0	0	0
+HPGD	gene	0	0	0	0	0	0	0	0	0	0
+SRD5A1	gene	0	0	0	0	0	0	0	0	0	0
+ERBB2	gene	0	0	0	0	0	0	0	0	0	0
+LPAR1	gene	0	0	0	0	0	0	0	0	0	0
+LPAR4	gene	0	0	0	0	0	0	0	0	0	0
+RBP4	gene	0	0	0	0	0	0	0	0	0	0
+MAP2	gene	0	0	0	0	0	0	0	0	0	0
+CDK4	gene	0	0	0	0	0	0	0	0	0	0
+SLC8A1	gene	0	0	0	0	0	0	0	0	0	0
+CLK3	gene	0	0	0	0	0	0	0	0	0	0
+CDK3	gene	0	0	0	0	0	0	0	0	0	0
+CDK18	gene	0	0	0	0	0	0	0	0	0	0
+S1PR4	gene	0	0	0	0	0	0	0	0	0	0
+SRD5A2	gene	0	0	0	0	0	0	0	0	0	0
+CYP2A6	gene	0	0	0	0	0	0	0	0	0	0
+POLB	gene	0	0	0	0	0	0	0	0	0	0
+PTPRF	gene	0	0	0	0	0	0	0	0	0	0
+ALOX5AP	gene	0	0	0	0	0	0	0	0	0	0
+PTPN11	gene	0	0	0	0	0	0	0	0	0	0
+HAO1	gene	0	0	0	0	0	0	0	0	0	0
+EDNRA	gene	0	0	0	0	0	0	0	0	0	0
+ECE1	gene	0	0	0	0	0	0	0	0	0	0
+CHRM1	gene	0	0	0	0	0	0	0	0	0	0
+SLC16A1	gene	0	0	0	0	0	0	0	0	0	0
+ALK	gene	0	0	0	0	0	0	0	0	0	0
+DRD2	gene	0	0	0	0	0	0	0	0	0	0
+CYP2D6	gene	0	0	0	0	0	0	0	0	0	0
+CYP2C9	gene	0	0	0	0	0	0	0	0	0	0
+CCND3	gene	0	0	0	0	0	0	0	0	0	0
+FABP4	gene	0	0	0	0	0	0	0	0	0	0
+SLC22A6	gene	0	0	0	0	0	0	0	0	0	0
+GABBR1	gene	0	0	0	0	0	0	0	0	0	0
+CA2	gene	0	0	0	0	0	0	0	0	0	0
+CA1	gene	0	0	0	0	0	0	0	0	0	0
+SLC22A12	gene	0	0	0	0	0	0	0	0	0	0
+CHRNA7	gene	0	0	0	0	0	0	0	0	0	0
+PTPRC	gene	0	0	0	0	0	0	0	0	0	0
+RXRA	gene	0	0	0	0	0	0	0	0	0	0
+LGALS3	gene	0	0	0	0	0	0	0	0	0	0
+LGALS8	gene	0	0	0	0	0	0	0	0	0	0
+RXRB	gene	0	0	0	0	0	0	0	0	0	0
+ALOX15	gene	0	0	0	0	0	0	0	0	0	0
+PLG	gene	0	0	0	0	0	0	0	0	0	0
+HTR2B	gene	0	0	0	0	0	0	0	0	0	0
+TPMT	gene	0	0	0	0	0	0	0	0	0	0
+KDM6B	gene	0	0	0	0	0	0	0	0	0	0
+KDM4C	gene	0	0	0	0	0	0	0	0	0	0
+MIF	gene	0	0	0	0	0	0	0	0	0	0
+TLR4	gene	0	0	0	0	0	0	0	0	0	0
+NGFR	gene	0	0	0	0	0	0	0	0	0	0
+CYP1A2	gene	0	0	0	0	0	0	0	0	0	0
+F3	gene	0	0	0	0	0	0	0	0	0	0
+NFE2L2	gene	0	0	0	0	0	0	0	0	0	0
+STAT3	gene	0	0	0	0	0	0	0	0	0	0
+HDAC6	gene	0	0	0	0	0	0	0	0	0	0
+CHRNA3	gene	0	0	0	0	0	0	0	0	0	0
+CHRNA4	gene	0	0	0	0	0	0	0	0	0	0
+ALPL	gene	0	0	0	0	0	0	0	0	0	0
+TDO2	gene	0	0	0	0	0	0	0	0	0	0
+EP300	gene	0	0	0	0	0	0	0	0	0	0
+COMT	gene	0	0	0	0	0	0	0	0	0	0
+MB	gene	0	0	0	0	0	0	0	0	0	0
+PLEC	gene	0	0	0	0	0	0	0	0	0	0
+ALDH5A1	gene	0	0	0	0	0	0	0	0	0	0
+GPR35	gene	0	0	0	0	0	0	0	0	0	0
+PTK2	gene	0	0	0	0	0	0	0	0	0	0
+TEK	gene	0	0	0	0	0	0	0	0	0	0
+HSPA1A	gene	0	0	0	0	0	0	0	0	0	0
+FGR	gene	0	0	0	0	0	0	0	0	0	0
+LYN	gene	0	0	0	0	0	0	0	0	0	0
+NFKB1	gene	0	0	0	0	0	0	0	0	0	0
+GSR	gene	0	0	0	0	0	0	0	0	0	0
+MAOA	gene	0	0	0	0	0	0	0	0	0	0
+AHR	gene	0	0	0	0	0	0	0	0	0	0
+ARG1	gene	0	0	0	0	0	0	0	0	0	0
+AKR1C1	gene	0	0	0	0	0	0	0	0	0	0
+MMP12	gene	0	0	0	0	0	0	0	0	0	0
+CD38	gene	0	0	0	0	0	0	0	0	0	0
+MAPT	gene	0	0	0	0	0	0	0	0	0	0
+BCL2L1	gene	0	0	0	0	0	0	0	0	0	0
+HSPA5	gene	0	0	0	0	0	0	0	0	0	0
+HSPA8	gene	0	0	0	0	0	0	0	0	0	0
+PNP	gene	0	0	0	0	0	0	0	0	0	0
+AHCY	gene	0	0	0	0	0	0	0	0	0	0
+CDA	gene	0	0	0	0	0	0	0	0	0	0
+HDAC1	gene	0	0	0	0	0	0	0	0	0	0
+PIN1	gene	0	0	0	0	0	0	0	0	0	0
+GSTP1	gene	0	0	0	0	0	0	0	0	0	0
+NAT1	gene	0	0	0	0	0	0	0	0	0	0
+HDAC7	gene	0	0	0	0	0	0	0	0	0	0
+ALB	gene	0	0	0	0	0	0	0	0	0	0
+SIRT1	gene	0	0	0	0	0	0	0	0	0	0
+CASP6	gene	0	0	0	0	0	0	0	0	0	0
+ATIC	gene	0	0	0	0	0	0	0	0	0	0
+PTPN6	gene	0	0	0	0	0	0	0	0	0	0
+APEX1	gene	0	0	0	0	0	0	0	0	0	0
+KCNJ1	gene	0	0	0	0	0	0	0	0	0	0
+LGALS9	gene	0	0	0	0	0	0	0	0	0	0
+CCR3	gene	0	0	0	0	0	0	0	0	0	0
+HLA-DRB1	gene	0	0	0	0	0	0	0	0	0	0
+PSENEN	gene	0	0	0	0	0	0	0	0	0	0
+ITGA2B	gene	0	0	0	0	0	0	0	0	0	0
+SCN10A	gene	0	0	0	0	0	0	0	0	0	0
+HIF1A	gene	0	0	0	0	0	0	0	0	0	0
+NR5A1	gene	0	0	0	0	0	0	0	0	0	0
+HDAC2	gene	0	0	0	0	0	0	0	0	0	0
+TACR3	gene	0	0	0	0	0	0	0	0	0	0
+NFKBIA	gene	0	0	0	0	0	0	0	0	0	0
+MKNK2	gene	0	0	0	0	0	0	0	0	0	0
+SLC27A1	gene	0	0	0	0	0	0	0	0	0	0
+TLR9	gene	0	0	0	0	0	0	0	0	0	0
+STS	gene	0	0	0	0	0	0	0	0	0	0
+ADRA2C	gene	0	0	0	0	0	0	0	0	0	0
+ADRA1D	gene	0	0	0	0	0	0	0	0	0	0
+CHRM3	gene	0	0	0	0	0	0	0	0	0	0
+ALDH2	gene	0	0	0	0	0	0	0	0	0	0
+DHFR	gene	0	0	0	0	0	0	0	0	0	0
+VCP	gene	0	0	0	0	0	0	0	0	0	0
+HSD3B2	gene	0	0	0	0	0	0	0	0	0	0
+DDO	gene	0	0	0	0	0	0	0	0	0	0
+PDE5A	gene	0	0	0	0	0	0	0	0	0	0
+HSP90B1	gene	0	0	0	0	0	0	0	0	0	0
+PLAU	gene	0	0	0	0	0	0	0	0	0	0
+CALCA	gene	0	0	0	0	0	0	0	0	0	0
+CTNNB1	gene	0	0	0	0	0	0	0	0	0	0
+MAN2A1	gene	0	0	0	0	0	0	0	0	0	0
+HTR1A	gene	0	0	0	0	0	0	0	0	0	0
+DYRK2	gene	0	0	0	0	0	0	0	0	0	0
+VHL	gene	0	0	0	0	0	0	0	0	0	0
+TRAP1	gene	0	0	0	0	0	0	0	0	0	0
+IRAK4	gene	0	0	0	0	0	0	0	0	0	0
+PRKACA	gene	0	0	0	0	0	0	0	0	0	0
+RPS6KA3	gene	0	0	0	0	0	0	0	0	0	0
+CREBBP	gene	0	0	0	0	0	0	0	0	0	0
+CHRNB1	gene	0	0	0	0	0	0	0	0	0	0
+HMOX1	gene	0	0	0	0	0	0	0	0	0	0
+KCNJ11	gene	0	0	0	0	0	0	0	0	0	0
+PRSS1	gene	0	0	0	0	0	0	0	0	0	0
+AOC3	gene	0	0	0	0	0	0	0	0	0	0
+CCR5	gene	0	0	0	0	0	0	0	0	0	0
+RASGRP1	gene	0	0	0	0	0	0	0	0	0	0
+ADRA1B	gene	0	0	0	0	0	0	0	0	0	0
+PRF1	gene	0	0	0	0	0	0	0	0	0	0
+DNM1	gene	0	0	0	0	0	0	0	0	0	0
+GLI2	gene	0	0	0	0	0	0	0	0	0	0
+BMP1	gene	0	0	0	0	0	0	0	0	0	0
+EPHA2	gene	0	0	0	0	0	0	0	0	0	0
+EPHB2	gene	0	0	0	0	0	0	0	0	0	0
+EPHA3	gene	0	0	0	0	0	0	0	0	0	0
+EPHB1	gene	0	0	0	0	0	0	0	0	0	0
+AKT2	gene	0	0	0	0	0	0	0	0	0	0
+HPGDS	gene	0	0	0	0	0	0	0	0	0	0
+HTR3A	gene	0	0	0	0	0	0	0	0	0	0
+PDE4C	gene	0	0	0	0	0	0	0	0	0	0
+NTRK2	gene	0	0	0	0	0	0	0	0	0	0
+NTRK3	gene	0	0	0	0	0	0	0	0	0	0
+RIPK2	gene	0	0	0	0	0	0	0	0	0	0
+TAOK3	gene	0	0	0	0	0	0	0	0	0	0
+LNPEP	gene	0	0	0	0	0	0	0	0	0	0
+FOXO1	gene	0	0	0	0	0	0	0	0	0	0
+ATP12A	gene	0	0	0	0	0	0	0	0	0	0
+MCHR1	gene	0	0	0	0	0	0	0	0	0	0
+PGK1	gene	0	0	0	0	0	0	0	0	0	0
+TSPO	gene	0	0	0	0	0	0	0	0	0	0
+PLA2G7	gene	0	0	0	0	0	0	0	0	0	0
+PDE4A	gene	0	0	0	0	0	0	0	0	0	0
+PTK6	gene	0	0	0	0	0	0	0	0	0	0
+ST6GAL1	gene	0	0	0	0	0	0	0	0	0	0
+CYP1A1	gene	0	0	0	0	0	0	0	0	0	0
+PLA2G10	gene	0	0	0	0	0	0	0	0	0	0
+DNMT1	gene	0	0	0	0	0	0	0	0	0	0
+STAT1	gene	0	0	0	0	0	0	0	0	0	0
+IGFBP3	gene	0	0	0	0	0	0	0	0	0	0
+SNCA	gene	0	0	0	0	0	0	0	0	0	0
+CCNA2	gene	0	0	0	0	0	0	0	0	0	0
+SBK1	gene	0	0	0	0	0	0	0	0	0	0
+DSTYK	gene	0	0	0	0	0	0	0	0	0	0
+BLK	gene	0	0	0	0	0	0	0	0	0	0
+CAMK1	gene	0	0	0	0	0	0	0	0	0	0
+CAMK4	gene	0	0	0	0	0	0	0	0	0	0
+PON1	gene	0	0	0	0	0	0	0	0	0	0
+PLAT	gene	0	0	0	0	0	0	0	0	0	0
+IGFBP4	gene	0	0	0	0	0	0	0	0	0	0
+IGFBP2	gene	0	0	0	0	0	0	0	0	0	0
+IL6	gene	0	0	0	0	0	0	0	0	0	0
+GRM4	gene	0	0	0	0	0	0	0	0	0	0
+BDKRB1	gene	0	0	0	0	0	0	0	0	0	0
+STIM1	gene	0	0	0	0	0	0	0	0	0	0
+FEN1	gene	0	0	0	0	0	0	0	0	0	0
+CXCR4	gene	0	0	0	0	0	0	0	0	0	0
+PI4KB	gene	0	0	0	0	0	0	0	0	0	0
+CSNK2A2	gene	0	0	0	0	0	0	0	0	0	0
+PPIA	gene	0	0	0	0	0	0	0	0	0	0
+FAP	gene	0	0	0	0	0	0	0	0	0	0
+HSPB1	gene	0	0	0	0	0	0	0	0	0	0
+HRH4	gene	0	0	0	0	0	0	0	0	0	0
+EIF2AK3	gene	0	0	0	0	0	0	0	0	0	0
+PDE8B	gene	0	0	0	0	0	0	0	0	0	0
+DNMT3A	gene	0	0	0	0	0	0	0	0	0	0
+CASP9	gene	0	0	0	0	0	0	0	0	0	0
+CCR4	gene	0	0	0	0	0	0	0	0	0	0
+CCR2	gene	0	0	0	0	0	0	0	0	0	0
+TAB1	gene	0	0	0	0	0	0	0	0	0	0
+PSEN1	gene	0	0	0	0	0	0	0	0	0	0
+SLC7A5	gene	0	0	0	0	0	0	0	0	0	0
+TH	gene	0	0	0	0	0	0	0	0	0	0
+CPB2	gene	0	0	0	0	0	0	0	0	0	0
+SLC15A1	gene	0	0	0	0	0	0	0	0	0	0
+PEPD	gene	0	0	0	0	0	0	0	0	0	0
+NOS1	gene	0	0	0	0	0	0	0	0	0	0
+CASP4	gene	0	0	0	0	0	0	0	0	0	0
+NOS3	gene	0	0	0	0	0	0	0	0	0	0
+TGM2	gene	0	0	0	0	0	0	0	0	0	0
+DRD5	gene	0	0	0	0	0	0	0	0	0	0
+PTK2B	gene	0	0	0	0	0	0	0	0	0	0
+QDPR	gene	0	0	0	0	0	0	0	0	0	0
+ACVR1	gene	0	0	0	0	0	0	0	0	0	0
+HDAC4	gene	0	0	0	0	0	0	0	0	0	0
+HDAC9	gene	0	0	0	0	0	0	0	0	0	0
+PRKD1	gene	0	0	0	0	0	0	0	0	0	0
+MSR1	gene	0	0	0	0	0	0	0	0	0	0
+SLC1A1	gene	0	0	0	0	0	0	0	0	0	0
+GRIK1	gene	0	0	0	0	0	0	0	0	0	0
+RNPEP	gene	0	0	0	0	0	0	0	0	0	0
+RELA	gene	0	0	0	0	0	0	0	0	0	0
+KISS1R	gene	0	0	0	0	0	0	0	0	0	0
+KMO	gene	0	0	0	0	0	0	0	0	0	0
+GRB2	gene	0	0	0	0	0	0	0	0	0	0
+PPOX	gene	0	0	0	0	0	0	0	0	0	0
+MAPK12	gene	0	0	0	0	0	0	0	0	0	0
+FKBP5	gene	0	0	0	0	0	0	0	0	0	0
+PLCG1	gene	0	0	0	0	0	0	0	0	0	0
+PSMB2	gene	0	0	0	0	0	0	0	0	0	0
+ATP1A1	gene	0	0	0	0	0	0	0	0	0	0
+MAP3K7	gene	0	0	0	0	0	0	0	0	0	0
+CTSG	gene	0	0	0	0	0	0	0	0	0	0
+GNRHR	gene	0	0	0	0	0	0	0	0	0	0
+DCK	gene	0	0	0	0	0	0	0	0	0	0
+HEXA	gene	0	0	0	0	0	0	0	0	0	0
+HEXB	gene	0	0	0	0	0	0	0	0	0	0
+FCER2	gene	0	0	0	0	0	0	0	0	0	0
+PIK3C2A	gene	0	0	0	0	0	0	0	0	0	0
+ERBB4	gene	0	0	0	0	0	0	0	0	0	0
+IRAK1	gene	0	0	0	0	0	0	0	0	0	0
+SLK	gene	0	0	0	0	0	0	0	0	0	0
+FRK	gene	0	0	0	0	0	0	0	0	0	0
+GAK	gene	0	0	0	0	0	0	0	0	0	0
+STK17A	gene	0	0	0	0	0	0	0	0	0	0
+RPS6KA6	gene	0	0	0	0	0	0	0	0	0	0
+MAP2K5	gene	0	0	0	0	0	0	0	0	0	0
+CIT	gene	0	0	0	0	0	0	0	0	0	0
+ERBB3	gene	0	0	0	0	0	0	0	0	0	0
+TNFRSF1A	gene	0	0	0	0	0	0	0	0	0	0
+TRPC6	gene	0	0	0	0	0	0	0	0	0	0
+MEN1	gene	0	0	0	0	0	0	0	0	0	0
+GABRA1	gene	0	0	0	0	0	0	0	0	0	0
+EPAS1	gene	0	0	0	0	0	0	0	0	0	0
+CCR6	gene	0	0	0	0	0	0	0	0	0	0
+ADAM9	gene	0	0	0	0	0	0	0	0	0	0
+PGF	gene	0	0	0	0	0	0	0	0	0	0
+SELP	gene	0	0	0	0	0	0	0	0	0	0
+SMARCA4	gene	0	0	0	0	0	0	0	0	0	0
+NOD2	gene	0	0	0	0	0	0	0	0	0	0
+LAP3	gene	0	0	0	0	0	0	0	0	0	0
+KDM5B	gene	0	0	0	0	0	0	0	0	0	0
+ESRRG	gene	0	0	0	0	0	0	0	0	0	0
+C1R	gene	0	0	0	0	0	0	0	0	0	0
+PDCD4	gene	0	0	0	0	0	0	0	0	0	0
+C3AR1	gene	0	0	0	0	0	0	0	0	0	0
+DHODH	gene	0	0	0	0	0	0	0	0	0	0
+CCR9	gene	0	0	0	0	0	0	0	0	0	0
+CXCL8	gene	0	0	0	0	0	0	0	0	0	0
+ICAM1	gene	0	0	0	0	0	0	0	0	0	0
+SELE	gene	0	0	0	0	0	0	0	0	0	0
+DUSP1	gene	0	0	0	0	0	0	0	0	0	0
+RNASEH1	gene	0	0	0	0	0	0	0	0	0	0
+P2RY12	gene	0	0	0	0	0	0	0	0	0	0
+EBP	gene	0	0	0	0	0	0	0	0	0	0
+KDM4B	gene	0	0	0	0	0	0	0	0	0	0
+PADI4	gene	0	0	0	0	0	0	0	0	0	0
+VCAM1	gene	0	0	0	0	0	0	0	0	0	0
+EEF2K	gene	0	0	0	0	0	0	0	0	0	0
+KCNN1	gene	0	0	0	0	0	0	0	0	0	0
+RPS6KA4	gene	0	0	0	0	0	0	0	0	0	0
+ERCC5	gene	0	0	0	0	0	0	0	0	0	0
+XPO1	gene	0	0	0	0	0	0	0	0	0	0
+MOL002003	multiDrug	1	1	0	0	0	0	0	0	0	0
+MOL000198	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000845	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000700	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL004487	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL000839	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000279	Poria	0	0	0	0	0	0	0	0	0	1
+MOL000199	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL1000003	Rehmannia Root	0	0	0	0	0	0	0	0	1	0
+MOL000390	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000826	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL003894	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL000360	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL000546	multiDrug	1	0	0	0	0	1	0	0	0	0
+MOL003384	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL000105	multiDrug	0	1	1	0	0	0	0	0	0	0
+MOL002850	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005090	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL000055	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL000303	Poria	0	0	0	0	0	0	0	0	0	1
+MOL005473	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000827	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000460	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL000857	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000034	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005434	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005208	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005446	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005455	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL000041	multiDrug	0	0	1	0	0	1	0	0	0	0
+MOL005466	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005503	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003689	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL004542	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL005508	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005386	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL004519	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL005538	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL004373	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL001696	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003704	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL005556	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL001246	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL003394	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL007382	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL004497	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL001604	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005487	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000309	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005855	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL007374	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL000874	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL004491	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL004503	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL005513	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003722	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL003406	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL006869	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL000666	multiDrug	1	0	1	0	0	0	0	0	0	0
+MOL008457	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000421	multiDrug	1	1	0	0	0	0	0	0	0	0
+MOL000273	Poria	0	0	0	0	0	0	0	0	0	1
+MOL003401	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL000114	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL005536	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005463	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL003705	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL005559	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005558	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005443	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL003697	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL004511	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL005195	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL003710	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL002975	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL002854	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL004517	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL000249	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005157	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000875	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL001746	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL001232	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL000254	multiDrug	0	0	0	0	1	0	1	0	0	0
+MOL003392	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL000823	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL002343	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000431	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL004498	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL001816	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000853	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL005272	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000635	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL007372	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL000299	Poria	0	0	0	0	0	0	0	0	0	1
+MOL000844	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000475	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003788	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000196	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000836	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000858	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000828	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL1000002	Rehmannia Root	0	0	0	0	0	0	0	0	1	0
+MOL000829	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL005190	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL003403	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL005432	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL001677	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL003546	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000676	multiDrug	0	0	1	0	0	0	1	0	0	0
+MOL001689	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL000472	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL005182	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000069	multiDrug	0	0	1	0	0	0	0	0	0	1
+MOL000837	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL004489	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL000068	multiDrug	0	0	1	0	0	1	0	0	0	0
+MOL001599	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005498	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005553	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003892	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL005448	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL000098	multiDrug	0	1	0	0	1	0	1	0	0	0
+MOL005449	multiDrug	0	0	1	0	0	1	0	0	0	0
+MOL004507	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL003547	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003391	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL1000005	Rehmannia Root	0	0	0	0	0	0	0	0	1	0
+MOL003731	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL004741	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL004530	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL002786	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL000305	multiDrug	0	0	1	1	0	0	0	0	0	1
+MOL003881	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL005161	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000483	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL007371	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL003706	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL003396	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL001906	multiDrug	1	0	1	0	0	0	0	0	0	0
+MOL000310	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL000830	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000118	multiDrug	1	0	1	0	0	0	0	0	0	0
+MOL000207	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005549	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003341	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000302	Poria	0	0	0	0	0	0	0	0	0	1
+MOL002930	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005484	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005472	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000628	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL001709	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL003404	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL001398	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000424	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000631	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL003707	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL001739	multiDrug	0	0	1	1	0	0	0	0	0	0
+MOL000103	multiDrug	0	1	0	0	1	0	0	0	0	0
+MOL000206	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000244	multiDrug	1	0	0	0	0	0	1	0	0	0
+MOL005167	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005502	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL003386	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL004535	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL000719	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL005515	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005437	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL000223	multiDrug	0	0	1	0	1	0	1	0	0	0
+MOL001393	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000854	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000824	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000849	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL005500	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005530	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000835	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL005429	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005459	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL1000004	Rehmannia Root	0	0	0	0	0	0	0	0	1	0
+MOL005464	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005512	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005458	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL002464	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL003378	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL001559	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL1000001	Rehmannia Root	0	0	0	0	0	0	0	0	1	0
+MOL003717	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL005444	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005563	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL001300	multiDrug	0	0	1	0	0	0	1	0	0	0
+MOL000006	multiDrug	0	1	0	0	0	0	1	0	0	0
+MOL002649	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005179	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005210	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000832	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL005431	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL003940	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005187	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL003389	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL003223	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL003388	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL005514	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005457	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL000873	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL1000006	Rehmannia Root	0	0	0	0	0	0	0	0	1	0
+MOL005442	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL002321	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL007367	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL005492	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL001618	multiDrug	0	0	1	0	0	1	0	0	0	0
+MOL005177	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005550	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000825	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000855	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL000057	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000846	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL003883	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL000414	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL000513	multiDrug	0	0	1	0	1	0	0	0	0	0
+MOL005495	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000852	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL001772	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL000008	multiDrug	0	1	0	0	0	0	1	0	0	0
+MOL000775	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000056	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL007373	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL000847	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL007378	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL005561	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL000304	Poria	0	0	0	0	0	0	0	0	0	1
+MOL003721	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL005474	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL004520	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL003402	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL003398	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL000422	multiDrug	1	0	0	0	1	0	1	0	0	0
+MOL000850	Oriental Waterplantain Rhizome	0	0	0	0	0	0	0	1	0	0
+MOL003399	Eclipta Herb	0	1	0	0	0	0	0	0	0	0
+MOL003708	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL005534	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL005168	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL005460	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL002046	Moutan Root Bark	0	0	0	0	1	0	0	0	0	0
+MOL000608	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL004495	Anemarrhena Rhizome	1	0	0	0	0	0	0	0	0	0
+MOL000322	Dioscorea Rhizome	0	0	0	0	0	1	0	0	0	0
+MOL005567	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
+MOL001396	Prepared Rehmannia Root	0	0	0	1	0	0	0	0	0	0
+MOL000123	Glossy Privet Fruit	0	0	0	0	0	0	1	0	0	0
+MOL000879	Asiatic Cornelian Cherry Fruit	0	0	1	0	0	0	0	0	0	0
